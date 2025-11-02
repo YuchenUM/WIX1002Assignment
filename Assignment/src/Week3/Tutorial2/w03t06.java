@@ -15,6 +15,6 @@ public class w03t06 {
         System.out.print("Enter diameter: ");
         diameter = input.nextDouble();
         result = pi * diameter;
-        System.out.printf("The circumference of the circle is: %.3f", result);
+        System.out.printf("The circumference of the circle is: %.3f\n", result);
     }
 }

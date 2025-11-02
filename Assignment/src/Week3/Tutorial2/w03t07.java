@@ -14,6 +14,6 @@ public class w03t07 {
         System.out.print("Enter value in inch: ");
         inch = input.nextDouble();
         meter = inch * 2.54 * 0.01;
-        System.out.printf("%.2f inches = %.2f meters", inch, meter);
+        System.out.printf("%.2f inches = %.2f meters\n", inch, meter);
     }
 }
