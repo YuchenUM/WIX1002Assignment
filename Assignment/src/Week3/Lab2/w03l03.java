@@ -1,3 +1,7 @@
+/*Write a program that generates three random numbers.  
+The range of the random number is 10 to 50. 
+Display the three numbers, sum of the numbers and the average in two decimal places. */
+
 package Week3.Lab2;
 
 public class w03l03 {

@@ -1,3 +1,6 @@
+/*Write a program to calculate the monthly payment for car loan. The following are the 
+inputs of the program. Output the monthly payment in two decimal places. */
+
 package Week3.Lab2;
 
 import java.util.Scanner;
